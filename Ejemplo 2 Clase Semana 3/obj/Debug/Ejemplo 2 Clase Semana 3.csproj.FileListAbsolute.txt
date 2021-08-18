@@ -1,0 +1,5 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Semana 3 - Clase\Ejemplo 2 Clase Semana 3\bin\Debug\Ejemplo 2 Clase Semana 3.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Semana 3 - Clase\Ejemplo 2 Clase Semana 3\bin\Debug\Ejemplo 2 Clase Semana 3.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Semana 3 - Clase\Ejemplo 2 Clase Semana 3\bin\Debug\Ejemplo 2 Clase Semana 3.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Semana 3 - Clase\Ejemplo 2 Clase Semana 3\obj\Debug\Ejemplo 2 Clase Semana 3.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplo Semana 3 - Clase\Ejemplo 2 Clase Semana 3\obj\Debug\Ejemplo 2 Clase Semana 3.pdb
